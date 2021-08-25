@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="main_color">#126bc4</color>
+    <color name="bg_color">#ffffff</color>
+    <color name="form_color">#dadada</color>
+    <color name="safe_green">#109a09</color>
+    <color name="mid_yellow">#c48b12</color>
+    <color name="warning_red">#c41212</color>
+</resources>
